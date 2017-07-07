@@ -1,4 +1,4 @@
-#Oauth 2 em Python
+# Oauth 2 em Python
 
 O extrator é feito em Python usando a versão 3.X, para definição de rotas foi usado o Framework [Bottle] na versão 0.12.13 que é usado para o OAuth2.0.
 
